@@ -1,0 +1,15 @@
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\bin\Debug\net6.0\Server.exe
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\bin\Debug\net6.0\Server.deps.json
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\bin\Debug\net6.0\Server.dll
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\bin\Debug\net6.0\Server.pdb
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.dll
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.pdb
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 3\ClientServer\Server\obj\Debug\net6.0\ref\Server.dll

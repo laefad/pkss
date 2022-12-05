@@ -1,0 +1,30 @@
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task7Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task10Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Task19Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task13Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task16Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task10Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task13Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task16Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Task19Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Task7Form.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учеба\ПКСС\Практики\Практическая работа 1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

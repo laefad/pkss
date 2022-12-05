@@ -1,0 +1,15 @@
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Forms.Task10Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Forms.Task13Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Forms.Task16Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Task19Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Forms.Task7Form.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\is-in\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
